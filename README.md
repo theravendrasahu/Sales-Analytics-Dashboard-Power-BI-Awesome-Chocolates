@@ -5,7 +5,7 @@
 This project is a Power BI Dashboard built to analyze and visualize sales performance of Awesome Chocolates across different countries, products, and sales teams.
 It provides insights into Sales, Profit, Cost, Shipments, and Performance Trends with interactive visuals and advanced Power BI features such as calculation groups, measure selectors, and DAX-based KPIs.
 
-<img width="1257" height="713" alt="image" src="https://github.com/theravendrasahu/Sales-Analytics-Dashboard-Power-BI-Awesome-Chocolates/blob/d09f524c6cb8c58ec826b73caac59d065e9e3f19/Dashboard%20Image.png" />
+<img width="1257" height="713" alt="image" src="https://github.com/theravendrasahu/Sales-Analytics-Dashboard-Power-BI-Awesome-Chocolates/blob/3b2c2d033a65d5357c4b65a4b878b0836cf00bab/Dashboard%20Image%20full.png" />
 
 ---
 
