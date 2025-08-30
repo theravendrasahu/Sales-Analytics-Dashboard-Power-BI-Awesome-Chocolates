@@ -1,4 +1,4 @@
-📊 Sales Analytics Dashboard Power BI- Awesome Chocolates 
+#📊 Sales Analytics Dashboard Power BI- Awesome Chocolates 
 
 🚀 Project Overview
 
