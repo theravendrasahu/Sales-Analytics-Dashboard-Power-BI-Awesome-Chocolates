@@ -85,7 +85,7 @@ Salesperson performance table
 Trend analysis (Cost, Shipments)
 Gauge chart (Profit %)
 
-[(Add your screenshots here in GitHub repo for better presentation — e.g., /images/dashboard.png)](https://github.com/theravendrasahu/Sales-Analytics-Dashboard-Power-BI-Awesome-Chocolates/blob/d09f524c6cb8c58ec826b73caac59d065e9e3f19/Dashboard%20Image.png)
+https://github.com/theravendrasahu/Sales-Analytics-Dashboard-Power-BI-Awesome-Chocolates/blob/d09f524c6cb8c58ec826b73caac59d065e9e3f19/Dashboard%20Image.png
 
 ---
 
