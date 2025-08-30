@@ -1,19 +1,19 @@
 # 📊 Sales Analytics Dashboard Power BI- Awesome Chocolates 
 
-🚀 Project Overview
+## 🚀 Project Overview
 
 This project is a Power BI Dashboard built to analyze and visualize sales performance of Awesome Chocolates across different countries, products, and sales teams.
 It provides insights into Sales, Profit, Cost, Shipments, and Performance Trends with interactive visuals and advanced Power BI features such as calculation groups, measure selectors, and DAX-based KPIs.
 
 ---
 
-📂 Project Data
+## 📂 Project Data
 
 The dataset includes multiple dimensions and fact tables:, Shipments (Fact Table), Date, Boxes (bins), Geography, Product, Products (Dimension Table), Product, Category, (Bars, Bites, Other), Cost per Box, People (Dimension Table), Salesperson, Team, Picture, Locations (Dimension Table), Geo, Region, Calendar (Dimension Table), Date
 
 ---
 
-🗂 Data Model
+## 🗂 Data Model
 
 Star Schema design with Shipments as the fact table
 Relationships:
@@ -25,7 +25,7 @@ This enables powerful filtering and slicing by Time, Region, Product, and Salesp
 
 ---
 
-📐 Key Measures & Calculations
+## 📐 Key Measures & Calculations
 
 A set of custom DAX measures and calculation groups were created to analyze performance:
 Measures, Total Sales, Total Profit, Total Cost, Total Shipments, Total Boxes, Profit %, LBS % (Low Boxes Shipments %), MoM Sales Change %, MoM Shipment Change %, Latest Month Sales, Latest Month Profit, Latest Month Total Shipment, Profit Target & Indicator, Calculation Groups
@@ -36,14 +36,14 @@ Measure Selector (Dynamic Switching)- Created using field parameters to toggle b
 
 ---
 
-📊 Dashboard Features & Visuals
+## 📊 Dashboard Features & Visuals
 
 KPIs
 Total Sales, Total Boxes, Total Shipments, Total Cost, Total Profit
 Month-on-Month (MoM) Change % indicators
 Profit % Gauge with target indicator
 
-Visuals
+## Visuals
 Line Chart: Cost by Start of Month (trend analysis)
 Column Chart: Shipments Analysis
 Table / Matrix: Salesperson-wise performance with Sales, Profit, Profit %, and LBS %
@@ -52,7 +52,7 @@ Slicers/Filters: By Product Category, Country, Region
 
 ---
 
-🎯 Key Insights
+## 🎯 Key Insights
 Sales & profit performance tracking across 7 regions: Australia, Canada, India, New Zealand, UK, USA, and Others
 Top-performing salespeople with highest profit % identified
 Low Box Shipments (LBS %) monitored to optimize logistics
@@ -61,7 +61,7 @@ Profit target monitoring with a KPI indicator
 
 ---
 
-🛠 Tools & Technologies
+## 🛠 Tools & Technologies
 Power BI Desktop
 DAX (Data Analysis Expressions)
 Calculation Groups (for MoM & dynamic measures)
@@ -69,7 +69,7 @@ Field Parameters (for dynamic measure switching)
 
 ---
 
-📌 How to Use
+## 📌 How to Use
 1. Open the .pbix file in Power BI Desktop
 2. Refresh data connections if required
 3. Use slicers to filter by Category, Region, or Country
@@ -77,7 +77,7 @@ Field Parameters (for dynamic measure switching)
 
 ---
 
-📷 Dashboard Preview
+## 📷 Dashboard Preview
 Main Report Page (Sales Report)
 KPIs (Sales, Profit, Cost, Shipments)
 MoM change indicators
@@ -89,7 +89,7 @@ Gauge chart (Profit %)
 
 ---
 
-⭐ Key Learnings
+## ⭐ Key Learnings
 Implemented star schema data modeling in Power BI
 Used DAX measures & calculation groups for advanced KPIs
 Built a dynamic measure selector for flexible reporting
@@ -97,7 +97,7 @@ Designed a visually engaging dashboard with business insights
 
 ---
 
-📌 Future Improvements
+## 📌 Future Improvements
 Add forecasting models for sales & shipments
 Enhance with drill-through pages for deeper analysis
 Integrate with real-time data source for live monitoring
